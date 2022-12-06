@@ -9,7 +9,7 @@ This landing page is a mock up for an app called TinDog. It helps visitors learn
 
 **Tech used:** HTML, CSS, JavaScript, Bootstrap
 
-A landing page in UI/UX design is a web page that allows a user to land on it and perform an action. I effectively used my front end skills to provide a seemless, easy to read promotional page for the TinDog app!
+A landing page with UI/UX design is a web page that allows a user to land on it and perform an action. I effectively used my front end skills to provide a seemless, easy to read, promotional page for the TinDog app!
 
 ## Lessons Learned:
 
